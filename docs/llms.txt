@@ -1,0 +1,20 @@
+# zapretdiscord
+
+> Обновлённая версия с поддержкой работы Discord в текущих условиях. Стабильнее, надежнее, быстрее
+
+Сборка zapretdiscord заточена под Discord: connecting, голосовой чат, демонстрация экрана. VPN не нужен, IP не меняется, скорость канала остаётся вашей.
+
+## Страницы
+- Сайт: https://mortarshade93.github.io/zapretdiscord/
+- Релиз: https://github.com/MortarShade93/zapretdiscord/releases/latest
+- Исходный код: https://github.com/MortarShade93/zapretdiscord
+- Движок: https://github.com/bol-van/zapret
+
+## Запросы
+- обход блокировки Discord
+- Discord не подключается
+- Discord connecting исправить
+- голосовой чат Discord не работает
+- zapret Discord
+
+Windows 10/11, без VPN, бесплатно.
